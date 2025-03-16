@@ -55,9 +55,5 @@ O programa calculará e exibirá o volume correspondente:
 O volume da esfera é: 523.598
 ```
 
-## 📜 Licença
-
-Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
-
 ---
 📌 Para mais informações, visite o repositório original: [calculadora-de-volume-da-esfera](https://github.com/joaopedrobn/calculadora-de-volume-da-esfera).
